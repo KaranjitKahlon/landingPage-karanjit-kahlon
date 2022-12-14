@@ -1,0 +1,5 @@
+.footer{
+    position:absolute;
+    flex-direction: row;
+    background-color: rgb(213, 213, 213);
+}
